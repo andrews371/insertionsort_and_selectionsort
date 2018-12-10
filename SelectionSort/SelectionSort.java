@@ -1,4 +1,4 @@
-// Autor: André Oliveira de Sousa - Mat.: 11325684
+// Autor: Andre Oliveira de Sousa - Mat.: 11325684
 // Trabalho 1 de APA
 // Professor: Bruno Petrato Bruck
 
