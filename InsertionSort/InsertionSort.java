@@ -1,3 +1,7 @@
+// Autor: André Oliveira de Sousa - Mat.: 11325684
+// Trabalho 1 de APA
+// Professor: Bruno Petrato Bruck
+
 import java.util.Arrays;
 
 public class InsertionSort {

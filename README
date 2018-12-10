@@ -1,0 +1,7 @@
+
+	Para compilar e executar a implementação do algoritmo
+	InsertionSort e Selection Sort:
+
+	1 - Entre na respectiva pasta do algoritmo pelo terminal
+	2 - apenas digite "make" sem aspas e o algoritmo em questão
+	será compilado e automaticamente executado.
